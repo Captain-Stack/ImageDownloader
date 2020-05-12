@@ -1,13 +1,11 @@
 from selenium import webdriver
 import urllib.request
 driver = webdriver.Chrome("C:\\Users\\USERP\\Downloads\\chromedriver.exe")
-driver.get("https://hamaraphotos.com/thumbnails.php?search=shreya+ghoshal&album=search&type=full")
+driver.get("link of the site here");
 
 #change this with url
 
-list = ["https://hamaraphotos.com/bollywood_photos_search_results_-_shreya_ghoshal_search_0_0.html",
-"https://hamaraphotos.com/bollywood_photos_search_results_-_shreya_ghoshal_search_0_1.html",
-"https://hamaraphotos.com/bollywood_photos_search_results_-_shreya_ghoshal_search_0_2.html"]
+list = ["list of the image to be downloaded"]
 
 a = 0
 
