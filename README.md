@@ -1,1 +1,5 @@
 # ImageDownloader
+  
+## Install the modules mentioned in the requirements.txt
+## outside the directory where the html files are located
+## Enter the name of the file and press Enter
